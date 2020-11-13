@@ -1,0 +1,13 @@
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Desafio_Nadador\bin\Debug\netcoreapp3.1\Projeto_Desafio_Nadador.exe
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Desafio_Nadador\bin\Debug\netcoreapp3.1\Projeto_Desafio_Nadador.deps.json
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Desafio_Nadador\bin\Debug\netcoreapp3.1\Projeto_Desafio_Nadador.runtimeconfig.json
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Desafio_Nadador\bin\Debug\netcoreapp3.1\Projeto_Desafio_Nadador.runtimeconfig.dev.json
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Desafio_Nadador\bin\Debug\netcoreapp3.1\Projeto_Desafio_Nadador.dll
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Desafio_Nadador\bin\Debug\netcoreapp3.1\Projeto_Desafio_Nadador.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Desafio_Nadador\obj\Debug\netcoreapp3.1\Projeto_Desafio_Nadador.csprojAssemblyReference.cache
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Desafio_Nadador\obj\Debug\netcoreapp3.1\Projeto_Desafio_Nadador.AssemblyInfoInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Desafio_Nadador\obj\Debug\netcoreapp3.1\Projeto_Desafio_Nadador.AssemblyInfo.cs
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Desafio_Nadador\obj\Debug\netcoreapp3.1\Projeto_Desafio_Nadador.csproj.CoreCompileInputs.cache
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Desafio_Nadador\obj\Debug\netcoreapp3.1\Projeto_Desafio_Nadador.dll
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Desafio_Nadador\obj\Debug\netcoreapp3.1\Projeto_Desafio_Nadador.pdb
+C:\Users\PC - CARLOS\Desktop\DEV\Projeto_Desafio_Nadador\obj\Debug\netcoreapp3.1\Projeto_Desafio_Nadador.genruntimeconfig.cache
